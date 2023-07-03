@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hw-3-react-SoftLion/static/css/main.eeada2ab.css",
+    "main.css": "/hw-3-react-SoftLion/static/css/main.ce2b440b.css",
     "main.js": "/hw-3-react-SoftLion/static/js/main.2d4cd8fc.js",
     "static/media/search-line-icon.svg": "/hw-3-react-SoftLion/static/media/search-line-icon.1273aebc2182eaf10e44.svg",
     "index.html": "/hw-3-react-SoftLion/index.html",
-    "main.eeada2ab.css.map": "/hw-3-react-SoftLion/static/css/main.eeada2ab.css.map",
+    "main.ce2b440b.css.map": "/hw-3-react-SoftLion/static/css/main.ce2b440b.css.map",
     "main.2d4cd8fc.js.map": "/hw-3-react-SoftLion/static/js/main.2d4cd8fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.eeada2ab.css",
+    "static/css/main.ce2b440b.css",
     "static/js/main.2d4cd8fc.js"
   ]
 }
