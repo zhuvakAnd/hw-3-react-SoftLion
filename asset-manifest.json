@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/hw-3-react-SoftLion/static/css/main.7acaea2f.css",
-    "main.js": "/hw-3-react-SoftLion/static/js/main.07d3183d.js",
+    "main.css": "/hw-3-react-SoftLion/static/css/main.eeada2ab.css",
+    "main.js": "/hw-3-react-SoftLion/static/js/main.2d4cd8fc.js",
+    "static/media/search-line-icon.svg": "/hw-3-react-SoftLion/static/media/search-line-icon.1273aebc2182eaf10e44.svg",
     "index.html": "/hw-3-react-SoftLion/index.html",
-    "main.7acaea2f.css.map": "/hw-3-react-SoftLion/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/hw-3-react-SoftLion/static/js/main.07d3183d.js.map"
+    "main.eeada2ab.css.map": "/hw-3-react-SoftLion/static/css/main.eeada2ab.css.map",
+    "main.2d4cd8fc.js.map": "/hw-3-react-SoftLion/static/js/main.2d4cd8fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.eeada2ab.css",
+    "static/js/main.2d4cd8fc.js"
   ]
 }
