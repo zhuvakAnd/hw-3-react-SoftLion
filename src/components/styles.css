@@ -173,8 +173,8 @@ display: flex;
 }
 
 .Modal {
-  max-width: calc(100vw - 48px);
-  max-height: calc(100vh - 24px);
+  max-width: calc(90vw - 50px);
+  max-height: calc(90vh - 30px);
 }
 
 /*
